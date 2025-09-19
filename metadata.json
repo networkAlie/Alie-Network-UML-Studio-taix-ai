@@ -1,0 +1,5 @@
+{
+  "name": "Alie Network UML Studio",
+  "description": "A React and Mermaid-based live renderer for visualizing marketing and growth systems. Features include copying Mermaid code, exporting diagrams as SVG, and a dark mode toggle.",
+  "requestFramePermissions": []
+}
